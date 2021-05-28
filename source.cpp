@@ -531,6 +531,7 @@ int main() {
 			Grid[i][j] = ' ';
 	Play();
 	IsWinner();
+	system("pause");
 	return 0;
 }
 
